@@ -1,4 +1,23 @@
-#bash
-npm init -y
-npm install -D sass-embedded
-
+{
+  "name": "xianmin_hugo-theme-jane",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12379Monty/blogdown-xianmin_hugo-theme-jane.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12379Monty/blogdown-xianmin_hugo-theme-jane/issues"
+  },
+  "homepage": "https://github.com/12379Monty/blogdown-xianmin_hugo-theme-jane#readme",
+  "devDependencies": {
+    "sass-embedded": "^1.90.0"
+  }
+}
