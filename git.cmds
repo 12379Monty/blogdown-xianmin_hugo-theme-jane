@@ -1,0 +1,17 @@
+
+# New Repo for Project
+# go to ~project folder
+git init
+cat .gitignore
+git add *
+git commit -m 'first'
+
+# create repo on github
+
+
+# then
+git remote add origin git@github.com:12379Monty/blogdown-yihui_hugo-xmin.git
+git branch -M main
+git push -u origin main
+
+
