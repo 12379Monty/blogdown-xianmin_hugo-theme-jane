@@ -1,0 +1,4 @@
+#bash
+npm init -y   # if you don’t already have package.json
+npm install -D sass-embedded
+
