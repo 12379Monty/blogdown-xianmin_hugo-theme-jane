@@ -19,5 +19,32 @@
   "homepage": "https://github.com/12379Monty/blogdown-xianmin_hugo-theme-jane#readme",
   "devDependencies": {
     "sass-embedded": "^1.90.0"
+  },
+  "dependencies": {
+    "braces": "^3.0.3",
+    "buffer-builder": "^0.2.0",
+    "chokidar": "^4.0.3",
+    "colorjs.io": "^0.5.2",
+    "detect-libc": "^1.0.3",
+    "fill-range": "^7.1.1",
+    "has-flag": "^4.0.0",
+    "immutable": "^5.1.3",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "is-number": "^7.0.0",
+    "micromatch": "^4.0.8",
+    "node-addon-api": "^7.1.1",
+    "picomatch": "^2.3.1",
+    "readdirp": "^4.1.2",
+    "rxjs": "^7.8.2",
+    "sass": "^1.90.0",
+    "sass-embedded-darwin-x64": "^1.90.0",
+    "source-map-js": "^1.2.1",
+    "supports-color": "^8.1.1",
+    "sync-child-process": "^1.0.2",
+    "sync-message-port": "^1.1.3",
+    "to-regex-range": "^5.0.1",
+    "tslib": "^2.8.1",
+    "varint": "^6.0.0"
   }
 }
