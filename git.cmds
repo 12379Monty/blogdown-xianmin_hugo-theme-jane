@@ -2,7 +2,7 @@
 # New Repo for Project
 # go to ~project folder
 git init
-cat .gitignore
+ # cat .gitignore
 git add *
 git commit -m 'first'
 
@@ -10,7 +10,7 @@ git commit -m 'first'
 
 
 # then
-git remote add origin git@github.com:12379Monty/blogdown-yihui_hugo-xmin.git
+git remote add origin git@github.com:12379Monty/blogdown-xianmin_hugo-theme-jane/
 git branch -M main
 git push -u origin main
 
